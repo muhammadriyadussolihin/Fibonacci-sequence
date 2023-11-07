@@ -1,9 +1,17 @@
 # Fibonacci_Sequence
+```
+NAMA    : Muhammad Riyadus Solihin
+NIM     : 312210404
+KELAS   : TI.22.A4
+DOSEN   : Donny Maulana, S.Kom., M.M.S.I.
+```
+
+
 
 ## Apa itu Fibonacci Sequence
 
  - Fibonacci Sequence (Deret angka Fibonacci) adalah deret angka yang diperoleh dengan menjumlahkan dua angka sebelumnya:<br>
- 1, 1, 2, ... <br>
+ 1, 1, 2, ... <br>  
  1 + 2 = 3 à 1, 1, 2, 3, ... <br>
  2 + 3 = 5 à 1, 1, 2, 3, 5, ... <br>
  3 + 5 = 8 à 1, 1, 2, 3, 5, 8, ... <br>
